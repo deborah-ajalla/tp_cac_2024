@@ -1,0 +1,32 @@
+paleta MORADO
+
+#4b0081
+#650099
+#7f00b2
+#ab3ed8
+#d86aff
+
+__________________________
+
+paleta monocromatica lavanda
+
+#4b1c71
+#7f4ca5
+#b57edc
+#dbb6ee
+#fff0ff
+___________________________
+
+paleta VIOLETA
+
+#5d1372
+#681c7c
+#732487
+#884299
+#a770b2
+___________________________
+
+
+#
+#
+#
